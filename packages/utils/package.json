@@ -1,17 +1,17 @@
 {
-  "name": "@dup4/example-nestjs-utils",
+  "name": "@dup4/example-nextjs-utils",
   "version": "0.0.1",
   "license": "MIT",
   "author": "Dup4 <lyuzhi.pan@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dup4/example-nestjs.git",
+    "url": "git+https://github.com/Dup4/example-nextjs.git",
     "directory": "packages/utils"
   },
   "bugs": {
-    "url": "https://github.com/Dup4/example-nestjs/issues"
+    "url": "https://github.com/Dup4/example-nextjs/issues"
   },
-  "homepage": "https://github.com/Dup4/example-nestjs/tree/main/packages/utils#readme",
+  "homepage": "https://github.com/Dup4/example-nextjs/tree/main/packages/utils#readme",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

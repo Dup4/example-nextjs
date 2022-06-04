@@ -10,7 +10,7 @@
       "@/*": [
         "src/*"
       ],
-      "@dup4/example-nestjs-utils": [
+      "@dup4/example-nextjs-utils": [
         "../utils/src/index.ts"
       ],
     }

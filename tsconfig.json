@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@dup4/example-nestjs-*": [
+      "@dup4/example-nextjs-*": [
         "packages/*/src/index.ts"
       ],
     }

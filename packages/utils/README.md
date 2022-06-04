@@ -1,1 +1,1 @@
-# @dup4/example-nestjs-utils
+# @dup4/example-nextjs-utils

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { add2 } from "@dup4/example-nestjs-core";
+import { add2 } from "@dup4/example-nextjs-core";
 
 describe("should", () => {
   it("add2", () => {

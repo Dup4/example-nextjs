@@ -1,1 +1,1 @@
-# @dup4/example-nestjs-core
+# @dup4/example-nextjs-core
