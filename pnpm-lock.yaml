@@ -66,6 +66,16 @@ importers:
     dependencies:
       '@dup4/example-nextjs-utils': link:../utils
 
+  packages/data-fetching:
+    specifiers:
+      next: latest
+      react: 17.0.2
+      react-dom: 17.0.2
+    dependencies:
+      next: 12.1.6_sfoxds7t5ydpegc3knd667wn6m
+      react: 17.0.2
+      react-dom: 17.0.2_react@17.0.2
+
   packages/navigate-between-pages:
     specifiers:
       next: latest

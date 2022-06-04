@@ -2,10 +2,6 @@
   "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "baseUrl": ".",
-    "paths": {
-      "@dup4/example-nextjs-*": [
-        "packages/*/src/index.ts"
-      ],
-    }
+    "paths": {}
   }
 }
